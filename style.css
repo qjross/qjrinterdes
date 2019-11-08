@@ -1,0 +1,88 @@
+.interdesBar{
+background-color: #DD6B33;
+    
+    }
+
+h2{
+    font-family:'Boogaloo';
+}
+.leftCenter{
+    margin-left:55px;
+    transition-property: background;
+transition-duration: 1s;
+    transition-timing-function: linear;
+    cursor:pointer;
+}
+.leftCenter2{
+    margin-left:60px;
+    transition-property: background;
+transition-duration: 1s;
+    transition-timing-function: linear;
+    cursor:pointer;
+}
+.leftCenter3{
+    margin-left:320px;
+    transition-property: background;
+transition-duration: 1s;
+    transition-timing-function: linear;
+    cursor:pointer;
+}
+
+.interdesImage{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.leftCenter:hover
+{
+    background-color:#0D205E;
+}
+
+.leftCenter2:hover
+{
+    background-color:#0D205E;
+}
+
+.leftCenter3:hover
+{
+    background-color:#0D205E;
+}
+
+
+
+
+#whatToDo{
+    height:300px;
+    width:500px;
+  
+}
+
+.bg-interdes{
+    background-color:#DD6B33;
+}
+
+.mobile{
+    align-content: center;
+}
+
+.popup_content {
+  margin: 10px;
+  padding: 0 10px;
+  max-width: 60%;
+  border: 2px solid #444;
+  background: white;
+}
+
+.hardSell{
+    text-align:right;
+    width:95%;
+    font-size:13px;
+    font-family:'Boogaloo';
+}
+
+.flex-container > div{
+    background-color:#DD6B33;
+    color:white;
+}
